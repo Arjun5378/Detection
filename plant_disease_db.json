@@ -1,0 +1,101 @@
+{
+  "Tomato": {
+    "Late_blight": {
+      "symptoms": "Dark brown lesions on leaves and stems, water-soaked spots that turn brown, white mold growth undersides",
+      "treatment": "Apply copper-based fungicides every 7-10 days; remove and burn infected plant parts",
+      "prevention": "Avoid overhead watering, improve air circulation, use resistant varieties, practice crop rotation",
+      "severity": "High",
+      "season": "Cool, wet weather"
+    },
+    "Early_blight": {
+      "symptoms": "Dark concentric rings on leaves, yellowing around spots, stem lesions",
+      "treatment": "Chlorothalonil or mancozeb fungicides, remove affected leaves",
+      "prevention": "Proper spacing, avoid wetting leaves, mulch around plants",
+      "severity": "Medium",
+      "season": "Warm, humid weather"
+    },
+    "healthy": {
+      "message": "Plant is healthy and thriving",
+      "care_tips": "Continue regular watering, provide adequate sunlight, monitor for pests",
+      "fertilization": "Balanced fertilizer every 4-6 weeks",
+      "watering": "Deep watering 2-3 times per week"
+    }
+  },
+  "Potato": {
+    "Late_blight": {
+      "symptoms": "Irregular brown spots on leaves that rapidly enlarge, tuber lesions in storage",
+      "treatment": "Copper-based fungicides, remove infected foliage, harvest carefully",
+      "prevention": "Certified disease-free seed, good field drainage, crop rotation",
+      "severity": "High",
+      "season": "Cool, moist conditions"
+    },
+    "Early_blight": {
+      "symptoms": "Dark spots with concentric rings, yellow leaves, reduced yield",
+      "treatment": "Fungicide applications during flowering",
+      "prevention": "Proper fertilization, avoid stress, resistant varieties",
+      "severity": "Medium",
+      "season": "Warm weather"
+    },
+    "healthy": {
+      "message": "Potato plants are growing well",
+      "care_tips": "Hill soil around plants, consistent moisture, watch for Colorado potato beetles",
+      "harvest_time": "2-3 weeks after flowering"
+    }
+  },
+  "Apple": {
+    "Apple_scab": {
+      "symptoms": "Olive-green velvety spots on leaves and fruit, dark cracked lesions",
+      "treatment": "Fungicides during green tip to petal fall stages",
+      "prevention": "Resistant varieties, prune for airflow, clean fallen leaves",
+      "severity": "Medium",
+      "season": "Spring moisture"
+    },
+    "Cedar_apple_rust": {
+      "symptoms": "Yellow-orange spots on leaves, galls on juniper trees",
+      "treatment": "Fungicide applications in early spring",
+      "prevention": "Remove nearby junipers, resistant varieties",
+      "severity": "Low",
+      "season": "Spring"
+    },
+    "healthy": {
+      "message": "Apple tree is healthy",
+      "pruning": "Prune in late winter, thin fruit for better size",
+      "spray_schedule": "Dormant oil before bud break"
+    }
+  },
+  "Grape": {
+    "Black_rot": {
+      "symptoms": "Brown spots with black dots on leaves, shriveled mummified fruit",
+      "treatment": "Fungicide during bloom and fruit development",
+      "prevention": "Proper pruning, good air circulation, clean vineyard floor",
+      "severity": "High",
+      "season": "Warm, humid weather"
+    },
+    "Powdery_mildew": {
+      "symptoms": "White powdery growth on leaves and fruit, distorted growth",
+      "treatment": "Sulfur or potassium bicarbonate sprays",
+      "prevention": "Canopy management, resistant varieties",
+      "severity": "Medium",
+      "season": "Warm, dry days with cool nights"
+    },
+    "healthy": {
+      "message": "Grape vines are healthy",
+      "pruning": "Prune in dormancy, train vines properly",
+      "harvest": "Harvest when brix reaches desired level"
+    }
+  },
+  "Corn": {
+    "Common_rust": {
+      "symptoms": "Reddish-brown pustules on leaves, reduced photosynthesis",
+      "treatment": "Fungicide if severe before tasseling",
+      "prevention": "Resistant hybrids, proper spacing",
+      "severity": "Low-Medium",
+      "season": "Moderate temperatures with dew"
+    },
+    "healthy": {
+      "message": "Corn crop is growing well",
+      "fertilization": "Side-dress nitrogen when plants are knee-high",
+      "pollination": "Plant in blocks for better wind pollination"
+    }
+  }
+}
