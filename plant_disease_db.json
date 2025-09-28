@@ -1,0 +1,194 @@
+{
+  "Tomato": {
+    "Late_blight": {
+      "symptoms": "Dark brown irregular lesions on leaves and stems; water-soaked spots that rapidly enlarge; white fuzzy sporulation on undersides in humid conditions; fruit rot possible.",
+      "treatment": "Apply copper-based fungicides every 7–10 days; remove and destroy heavily infected leaves; avoid overhead irrigation; remove nearby volunteer tomato plants.",
+      "prevention": "Use resistant varieties, practice crop rotation, improve air circulation, avoid overhead watering, plant on raised beds with good drainage.",
+      "severity": "High",
+      "season": "Cool, wet weather",
+      "supplements": "Organic: compost tea, neem cake; Chemical: potassium phosphate, calcium nitrate foliar; silica sprays as adjunct",
+      "organic_supplements": ["Compost tea", "Neem cake", "Seaweed extract"],
+      "chemical_supplements": ["Potassium phosphate (K2HPO4)", "Calcium nitrate foliar spray", "Silicon-based foliar spray"],
+      "expected_outcome": "If treated early with fungicides and infected tissue removed, foliage can recover and further spread slowed; severe late infections can reduce yield substantially.",
+      "image_examples": [
+        "static/examples/tomato/late_blight_1.jpg",
+        "static/examples/tomato/late_blight_2.jpg"
+      ]
+    },
+    "Early_blight": {
+      "symptoms": "Small dark spots with concentric rings on older leaves; yellowing around spots; lesions on stems may appear; defoliation in severe cases.",
+      "treatment": "Apply protectant fungicides such as chlorothalonil or mancozeb at early signs; remove and destroy severely affected leaves; maintain plant vigor.",
+      "prevention": "Proper spacing for airflow, mulch to reduce soil splash, avoid overhead irrigation, rotate crops and use resistant cultivars.",
+      "severity": "Medium",
+      "season": "Warm, humid weather",
+      "supplements": "Organic: compost and seaweed extract to boost plant vigor; Chemical: balanced NPK and foliar micronutrients (Zn, Mn) if deficiency observed",
+      "organic_supplements": ["Compost", "Liquid seaweed extract", "Fish emulsion"],
+      "chemical_supplements": ["Balanced NPK (10-10-10)", "Foliar zinc spray", "Foliar manganese spray"],
+      "expected_outcome": "Treatment with fungicides plus supportive nutrition normally arrests disease and allows recovery; minor yield loss if controlled early.",
+      "image_examples": [
+        "static/examples/tomato/early_blight_1.jpg",
+        "static/examples/tomato/early_blight_2.jpg"
+      ]
+    },
+    "healthy": {
+      "message": "Plant is healthy and thriving",
+      "care_tips": "Continue regular watering at the base, provide full sun, stake plants for airflow, monitor for pests and early symptoms.",
+      "fertilization": "Apply balanced fertilizer every 4–6 weeks during active growth",
+      "watering": "Deep watering 2–3 times per week depending on weather",
+      "recommended_supplements": "Organic compost, bone meal for P, liquid seaweed for overall vigor; chemical option: balanced NPK if soil test indicates need",
+      "image_examples": [
+        "static/examples/tomato/healthy_1.jpg"
+      ],
+      "expected_outcome": "Plant expected to remain healthy if regular care continues; supplements will maintain vigour and reduce susceptibility."
+    }
+  },
+  "Potato": {
+    "Late_blight": {
+      "symptoms": "Irregular dark brown spots on leaves that expand rapidly; lesions on stems; tuber lesions (brown, sunken) may develop during storage.",
+      "treatment": "Apply copper-based or recommended systemic fungicides; remove infected foliage; harvest carefully to avoid tuber damage; store dry and cool.",
+      "prevention": "Certified disease-free seed, crop rotation, good field drainage, avoid dense planting and prolonged leaf wetness.",
+      "severity": "High",
+      "season": "Cool, moist conditions",
+      "supplements": "Organic: compost and Trichoderma soil amendment; Chemical: silica and potassium foliar sprays to strengthen tissue",
+      "organic_supplements": ["Trichoderma-enriched compost", "Neem cake", "Vermicompost"],
+      "chemical_supplements": ["Potassium sulfate (K2SO4)", "Silicon foliar spray", "Calcium foliar spray"],
+      "expected_outcome": "Proper fungicide program and removal of infected plant parts can limit spread and protect tubers; severe outbreaks may require crop abandonment to avoid spread.",
+      "image_examples": [
+        "static/examples/potato/late_blight_1.jpg",
+        "static/examples/potato/late_blight_2.jpg"
+      ]
+    },
+    "Early_blight": {
+      "symptoms": "Dark spots with concentric rings on leaves, yellowing and premature leaf drop, reduced foliage leading to lower yields.",
+      "treatment": "Use recommended fungicides during flowering and bulking; remove heavily infected leaves; manage stress (consistent moisture).",
+      "prevention": "Good fertilization, reduce plant stress, use resistant lines, rotate crops.",
+      "severity": "Medium",
+      "season": "Warm weather",
+      "supplements": "Organic: fish emulsion for recovery; Chemical: foliar magnesium and manganese if soil test indicates deficiency",
+      "organic_supplements": ["Fish emulsion", "Compost tea"],
+      "chemical_supplements": ["Mancozeb (where permitted)", "Foliar magnesium spray", "Foliar manganese spray"],
+      "expected_outcome": "Often controllable with fungicide and nutrition; recovery likely with moderate management and limited yield loss.",
+      "image_examples": [
+        "static/examples/potato/early_blight_1.jpg"
+      ]
+    },
+    "healthy": {
+      "message": "Potato plants are growing well",
+      "care_tips": "Hill soil regularly, provide consistent moisture during tuber initiation, scout for Colorado potato beetles.",
+      "harvest_time": "2–3 weeks after flowering for new potatoes; later for storage types",
+      "recommended_supplements": "Wood ash for potassium in small doses, fish emulsion for nitrogen, vermicompost for soil health",
+      "image_examples": [
+        "static/examples/potato/healthy_1.jpg"
+      ],
+      "expected_outcome": "Healthy growth expected with scheduled feeding and pest monitoring; good tuber set likely."
+    }
+  },
+  "Apple": {
+    "Apple_scab": {
+      "symptoms": "Olive-green velvety spots on leaves and fruit that later become dark, cracked lesions; premature leaf drop and fruit deformities.",
+      "treatment": "Apply fungicides from green tip through petal fall and as recommended during wet springs; remove and destroy fallen leaves and mummified fruit.",
+      "prevention": "Plant resistant cultivars, prune to improve airflow, rake and remove fallen debris, protect during spring moisture.",
+      "severity": "Medium",
+      "season": "Spring moisture",
+      "supplements": "Organic: composted manure and kelp extract; Chemical: foliar calcium and potassium during fruit development",
+      "organic_supplements": ["Composted manure", "Kelp extract", "Compost tea"],
+      "chemical_supplements": ["Calcium foliar spray", "Potassium nitrate"],
+      "expected_outcome": "With timely fungicide applications and sanitation, scab can be managed and fruit quality preserved; untreated orchards will suffer decline over seasons.",
+      "image_examples": [
+        "static/examples/apple/apple_scab_1.jpg",
+        "static/examples/apple/apple_scab_2.jpg"
+      ]
+    },
+    "Cedar_apple_rust": {
+      "symptoms": "Bright yellow-orange spots on apple leaves and fruit; spindle-shaped gelatinous spore horns appear on alternate juniper hosts.",
+      "treatment": "Fungicide sprays in early spring; remove nearby juniper hosts when feasible.",
+      "prevention": "Avoid planting apples near junipers, select resistant varieties, prune canopy for airflow.",
+      "severity": "Low",
+      "season": "Spring",
+      "supplements": "Organic: compost and kelp extract to improve tree vigor; Chemical: boron and zinc foliar for fruit set if deficiency noted",
+      "organic_supplements": ["Kelp extract", "Compost"],
+      "chemical_supplements": ["Boron foliar spray", "Zinc foliar spray"],
+      "expected_outcome": "Usually low impact when managed; fruit quality largely maintained with early interventions.",
+      "image_examples": [
+        "static/examples/apple/cedar_apple_rust_1.jpg"
+      ]
+    },
+    "healthy": {
+      "message": "Apple tree is healthy",
+      "pruning": "Prune in late winter, thin fruit for better size and airflow",
+      "spray_schedule": "Dormant oil before bud break; targeted fungicide during susceptible periods",
+      "recommended_supplements": "Organic mulch, kelp extract; chemical: calcium nitrate during fruit fill if needed",
+      "image_examples": [
+        "static/examples/apple/healthy_1.jpg"
+      ],
+      "expected_outcome": "Healthy trees will set quality fruit and maintain productivity with standard care."
+    }
+  },
+  "Grape": {
+    "Black_rot": {
+      "symptoms": "Small brown spots on leaves with black fruiting bodies; fruit become shriveled, mummified and inedible.",
+      "treatment": "Fungicide during bloom and fruit development; remove and destroy mummified fruit and heavily infected canes.",
+      "prevention": "Sanitation in vineyard floor, canopy management for airflow, remove wild grape hosts.",
+      "severity": "High",
+      "season": "Warm, humid weather",
+      "supplements": "Organic: compost tea and neem sprays; Chemical: foliar potassium and magnesium to strengthen vines, silicon sprays for resistance",
+      "organic_supplements": ["Compost tea", "Neem oil spray"],
+      "chemical_supplements": ["Potassium sulfate foliar", "Magnesium foliar spray", "Silicon-based foliar product"],
+      "expected_outcome": "If controlled early, fruit loss can be reduced; widespread infection will reduce yield and quality significantly.",
+      "image_examples": [
+        "static/examples/grape/black_rot_1.jpg",
+        "static/examples/grape/black_rot_2.jpg"
+      ]
+    },
+    "Powdery_mildew": {
+      "symptoms": "White powdery coating on leaves and fruit; distortion of new growth and reduced photosynthesis.",
+      "treatment": "Apply sulfur or potassium bicarbonate sprays; remove heavily infected shoots and manage canopy density.",
+      "prevention": "Canopy management, choose resistant varieties, avoid excessive nitrogen which encourages soft growth.",
+      "severity": "Medium",
+      "season": "Warm, dry days with cool nights",
+      "supplements": "Organic: seaweed extract and compost tea; Chemical: calcium foliar sprays and targeted sulfur applications",
+      "organic_supplements": ["Seaweed extract", "Compost tea"],
+      "chemical_supplements": ["Sulfur spray", "Calcium foliar spray", "Potassium bicarbonate"],
+      "expected_outcome": "Good control achievable with sulfur/biocontrols; yield and quality usually maintained with correct timing.",
+      "image_examples": [
+        "static/examples/grape/powdery_mildew_1.jpg"
+      ]
+    },
+    "healthy": {
+      "message": "Grape vines are healthy",
+      "pruning": "Prune in dormancy and train vines to promote airflow",
+      "harvest": "Harvest when brix reaches target level",
+      "recommended_supplements": "Compost tea, potassium sulfate during fruiting, micronutrient foliar spray as required",
+      "image_examples": [
+        "static/examples/grape/healthy_1.jpg"
+      ],
+      "expected_outcome": "Healthy vines will achieve expected sugar levels and fruit quality when managed properly."
+    }
+  },
+  "Corn": {
+    "Common_rust": {
+      "symptoms": "Small reddish-brown pustules (uredinia) on both leaf surfaces; reduced photosynthetic area and potential yield loss.",
+      "treatment": "Apply registered rust fungicide before tasseling if severe; monitor epidemic development.",
+      "prevention": "Plant resistant hybrids, maintain optimal plant spacing and avoid excessive shade.",
+      "severity": "Low-Medium",
+      "season": "Moderate temperatures with morning dew",
+      "supplements": "Organic: humic acid for root strength; Chemical: foliar nitrogen for recovery and potassium chloride to improve stress tolerance",
+      "organic_supplements": ["Humic acid soil amendment", "Compost tea"],
+      "chemical_supplements": ["Foliar nitrogen solution (as needed)", "Potassium chloride (KCl)"],
+      "expected_outcome": "Typically low impact when resistant hybrids are used; recovery expected with supportive nutrition and fungicide if warranted.",
+      "image_examples": [
+        "static/examples/corn/common_rust_1.jpg"
+      ]
+    },
+    "healthy": {
+      "message": "Corn crop is growing well",
+      "fertilization": "Side-dress nitrogen when plants are knee-high",
+      "pollination": "Plant in blocks to improve wind pollination",
+      "recommended_supplements": "Humic acid and compost for root health, foliar zinc for grain filling if needed",
+      "image_examples": [
+        "static/examples/corn/healthy_1.jpg"
+      ],
+      "expected_outcome": "Healthy growth and good grain set expected with proper fertilization and pollination management."
+    }
+  }
+}
